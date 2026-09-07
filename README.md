@@ -11,22 +11,18 @@ modified build.
 
 ## Install
 
-1. Download the file for your platform from
-   [Releases](https://github.com/drpezzer/yarg-ghl-picks/releases):
-   - **Windows** — `GHL-Picks-windows.yargtheme`
-   - **Linux / Steam Deck** — `GHL-Picks-linux.yargtheme`
-2. Drop it in YARG's `custom/themes` folder:
-   - **Windows** — `%USERPROFILE%\AppData\LocalLow\YARC\YARG\release\custom\themes`
-   - **Linux** — `~/.config/unity3d/YARC/YARG/release/custom/themes`
+1. Download **`GHL-Picks.yargtheme`** from
+   [Releases](https://github.com/drpezzer/yarg-ghl-picks/releases). One file, every
+   platform.
+2. Drop it in YARG's `custom/themes` folder. Which folder depends on which build you
+   run — most people are on **nightly**:
+   - **Windows** — `%USERPROFILE%\AppData\LocalLow\YARC\YARG\nightly\custom\themes`
+   - **Linux / Steam Deck** — `~/.config/unity3d/YARC/YARG/nightly/custom/themes`
+
+   On a tagged **release** build, swap `nightly` for `release`.
 3. Restart YARG, then pick **GHL Picks** in your profile's theme setting.
 
 Themes are read at startup, so it won't appear until you restart.
-
-### Why two files
-
-Unity asset bundles are built per platform, so the Windows file won't load on Linux
-or the reverse. Both are built from the same source and share a theme id, so your
-selection carries across if you play on both.
 
 ## What it changes
 
