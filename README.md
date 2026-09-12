@@ -37,13 +37,14 @@ five-fret notes use.
 |---|---|
 | <img src="images/strum.png" width="260"> | **Strum notes.** A pick pointing down for the white row and up for the black, so the shape tells you which row to reach for before you've read the colour. |
 | <img src="images/barre.png" width="260"> | **Both buttons.** A rounded square when a column needs its black *and* white button held, showing both rows at once. |
+| <img src="images/hopo.png" width="260"> | **HOPOs.** Tinted blue, with a pool of light on the board beneath them — the way Guitar Hero Live lit its HOPOs. Size alone was too quiet a cue to catch at speed. |
 | <img src="images/tap.png" width="260"> | **Taps.** A normal note of its row with a translucent purple tint over it, following GHL's "don't strum this" convention. |
 | <img src="images/star-power.png" width="260"> | **Star power.** Notes in a live star power phrase get a gold outline, and lose it the moment the phrase is broken. Taps keep their purple while gilded. |
 | <img src="images/open.png" width="260"> | **Open notes.** The theme's standard full-width bar, unchanged, so an open strum looks the same as on every other instrument. |
 
-HOPOs are the same shape at 85% size. They deliberately don't get the purple: a
-HOPO still needs a strum when your combo is 0, so marking one never-strum would be
-a lie.
+HOPOs are the same shape at 85% size, on top of the blue and the light. They
+deliberately don't get the purple: a HOPO still needs a strum when your combo is 0,
+so marking one never-strum would be a lie.
 
 One limitation worth knowing: the band inside each pick is a fixed colour rather
 than following your colour profile. YARG hands a single-button note one colour, so
