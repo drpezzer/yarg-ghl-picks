@@ -42,9 +42,13 @@ five-fret notes use.
 | <img src="images/star-power.png" width="260"> | **Star power.** Notes in a live star power phrase get a gold outline, and lose it the moment the phrase is broken. Taps keep their purple while gilded. |
 | <img src="images/open.png" width="260"> | **Open notes.** The theme's standard full-width bar, unchanged, so an open strum looks the same as on every other instrument. |
 
-HOPOs are the same shape at 85% size, on top of the blue and the light. They
-deliberately don't get the purple: a HOPO still needs a strum when your combo is 0,
-so marking one never-strum would be a lie.
+Every note is drawn at the same size — HOPOs and taps are told apart by colour and
+light rather than by being smaller, which is easier to read at speed and doesn't
+make them harder to hit. HOPOs deliberately don't get the purple: a HOPO still needs
+a strum when your combo is 0, so marking one never-strum would be a lie.
+
+*Screenshots show notes at the size they were before v1.4; the notes are now about
+20% smaller.*
 
 One limitation worth knowing: the band inside each pick is a fixed colour rather
 than following your colour profile. YARG hands a single-button note one colour, so
